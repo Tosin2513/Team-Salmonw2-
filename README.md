@@ -60,7 +60,7 @@ This project is aimed at developing a platform that offers a donation page where
 - [@og-lati](https://github.com/og-lati)
 - [@Inioluwa2003](https://github.com/Inioluwa2003)
 - [@adenijiridwan43](https://github.com/adenijiridwan43)
-- [@addusername](https://github.com/addusername)
+- [@Tosin2513](https://github.com/Tosin2513)
 - [@addusername](https://github.com/addusername)
 - [@addusername](https://github.com/addusername)
 - [@addusername](https://github.com/addusername)
